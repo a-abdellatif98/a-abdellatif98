@@ -10,5 +10,5 @@ Computer Vision
 
 # Find me around the web:
 - Sharing updates on <a href="https://www.linkedin.com/in/a-abdellatif/">LinkedIn</a> 💼
-- Sharing updates on <a href=https://twitter.com/a_abdellatif98">Twitter</a> 💼
+- Sharing updates on <a href="https://twitter.com/a_abdellatif98">Twitter</a> 💼
 
