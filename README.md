@@ -1,25 +1,27 @@
 # Hi this is Ahmed
 <img src="https://raw.githubusercontent.com/a-abdellatif98/a-abdellatif98/master/Ahmed M.jpg" alt="banner that says Ahmed M. - J.software engineer" width="400" height="400">
 
-Am Computer Science Student (just few days to gradutae)
+* Am Computer Science Student (just few days to gradutae)
 
-Junior Software Engineer
+* Junior Software Engineer
 
-Web: Ruby on Rails | Bootstrap | JavaScript | HTML | CSS
+## Just get lucky to learn and apply these  
 
-Cloud: Google Cloud | AWS
+* Web: Ruby on Rails | Bootstrap | JavaScript
 
-Machine Learning: scikit learn | Text Classification | Clustering | Image Processing | Collaborative Filtering.
+* Cloud: Google Cloud | AWS
 
-Version Control: Git
+* Machine Learning: scikit learn | Text Classification | Clustering | Image Processing | Collaborative Filtering.
 
-Web-Based Version Control: Github | Bitbucket | GitLab
+* Version Control: Git
 
-DBMS: PostgreSQL | MySql.
+* Web-Based Version Control: Github | Bitbucket | GitLab
+
+* DBMS: PostgreSQL | MySql.
 
 Computer Vision 
 
 
-# Find me around the web:
-  - Sharing updates on <a href="https://twitter.com/a_abdellatif98">Twitter</a> 💼
-  - <a href="https://gitlab.com/a-abdellatif98/"> Gitlab</a>
+### Find me around the web:
+  * Sharing updates on <a href="https://twitter.com/a_abdellatif98">Twitter</a> 💼
+  * <a href="https://gitlab.com/a-abdellatif98/"> Gitlab</a>
