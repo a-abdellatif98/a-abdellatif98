@@ -19,7 +19,7 @@
 
 * DBMS: PostgreSQL | MySql.
 
-Computer Vision 
+* Computer Vision: Keras | pytorch  
 
 
 ### Find me around the web:
