@@ -1,4 +1,4 @@
-# Hi this is Ahmed 👨‍💻
+# Hi, I'm Ahmed 👨‍💻
 <img src="https://raw.githubusercontent.com/a-abdellatif98/a-abdellatif98/master/Ahmed M.jpg" alt="banner that says Ahmed M. - J.software engineer" width="400" height="400">
 
 * Am Computer Science Student (just few days to gradutae)
