@@ -3,11 +3,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&theme=dark)
 
 
-| [<img src="https://raw.githubusercontent.com/a-abdellatif98/a-abdellatif98/master/img/github.png" alt="github logo" width="34">](https://github.com/a-abdellatif98) |  [<img src="https://raw.githubusercontent.com/a-abdellatif98/a-abdellatif98/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/a_abdellatif98) |  [<img src="https://raw.githubusercontent.com/a-abdellatif98/a-abdellatif98/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/a-abdellatif98) |  [<img src="https://github.com/a-abdellatif98/a-abdellatif98/blob/master/img/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/a-abdellatif/) |  [<img src="https://github.com/a-abdellatif98/a-abdellatif98/blob/master/img/gmail.jpeg" alt="gmail logo" width="24">](Ahmed.abdelatife@gmail.com) | [<img src="https://github.com/a-abdellatif98/a-abdellatif98/blob/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/aabdellatif98/) | [<img src="https://github.com/a-abdellatif98/a-abdellatif98/blob/master/img/instagram.jpg" alt="insta logo" width="24">](https://www.instagram.com/a_abdellatif98/) 
-|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/a-abdellatif98/a-abdellatif98/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/a_abdellatif98) |  [<img src="https://raw.githubusercontent.com/a-abdellatif98/a-abdellatif98/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/a-abdellatif98) |  [<img src="https://github.com/a-abdellatif98/a-abdellatif98/blob/master/img/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/a-abdellatif/) |  [<img src="https://github.com/a-abdellatif98/a-abdellatif98/blob/master/img/gmail.jpeg" alt="gmail logo" width="24">](Ahmed.abdelatife@gmail.com) | [<img src="https://github.com/a-abdellatif98/a-abdellatif98/blob/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/aabdellatif98/) 
+|---|---|---|---|---|
 
-
-* Just Graduated from Computer Science department  
 
 * Junior Software Engineer 💻
 
