@@ -9,9 +9,9 @@
 
 * Junior Software Engineer 💻
 
-## Just get lucky to learn and apply these  
+## Got lucky to learn:  
 
-* Web: Ruby on Rails | Bootstrap | JavaScript | flask  
+* Web: Ruby on Rails  
 
 * Cloud: Google Cloud | AWS
 
