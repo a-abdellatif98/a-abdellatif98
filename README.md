@@ -25,7 +25,18 @@
 
 * Computer Vision: Classification  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-abdellatif98)](https://github.com/anuraghazra/github-readme-stats)
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-ruby-informational?style=flat&logo=ruby&logoColor=white&color=FF0000)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rails&logoColor=white&color=FF0000)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4689db)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4689db)
+![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=4689db)
+
+
+<a href="https://github.com/a-abdellatif98/a-abdellatif98">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abdellatif98&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+</a>
+
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=a-abdellatif98.a-abdellatif98)
