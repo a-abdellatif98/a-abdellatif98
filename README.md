@@ -47,8 +47,6 @@
 
 ## Let's connect!
 
+[![Connect: GMail](https://img.shields.io/badge/Ahmed_M._Abd_El_Latif-gmail?style=flat&logo=gmail&logoColor=red)](mailto:ahmed.abdelatife@gmail.com")
 [![Connect: LinkedIn](https://img.shields.io/badge/Ahmed_M._Abd_El_Latif-linkedin?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/a-abdellatif/)
 [![Check: CV](https://img.shields.io/badge/Ahmed_M._Abd_El_Latif_CV-orange)](https://drive.google.com/file/d/1pagvj2AsoMWtrkgufwqESN8dRnXoIPpa/view?usp=sharing)
-<a href="mailto:ahmed.abdelatife@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" />
-</a>
