@@ -1,52 +1,31 @@
-# Hi, I'm Abd El-Latif 👨‍💻
+<h1 align="center">Hi 👋, I'm Abd El-Latif</h1>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+- 🌱 I’m currently learning **The well-Grounded Rubyist**
 
+- 👨‍💻 All of my projects are available at [a-abdellatif98](https://github.com/a-abdellatif98)
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=a-abdellatif98.a-abdellatif98)
+- 💬 Ask me about **ruby, ruby on rails**
 
-## 🔧 Technologies & Tools
+- 📫 How to reach me **ahmed.abdelatife@gmail.com**
 
-### BackEnd Languages
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1pagvj2AsoMWtrkgufwqESN8dRnXoIPpa/view?usp=sharing)
 
-[![Code: Ruby](https://img.shields.io/badge/Code-Ruby-red?&logo=ruby&logoColor=red)](https://www.ruby-lang.org/en/) [![Code: Python](https://img.shields.io/badge/Code-Python-blue?&logo=python)](https://www.python.org/) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4689db)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/a_abdellatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="a_abdellatif" height="30" width="40" /></a>
+<a href="https://twitter.com/a_abdellatif98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_abdellatif98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/a-abdellatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-abdellatif" height="30" width="40" /></a>
+<a href="https://fb.com/aabdellatif98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aabdellatif98/" height="30" width="40" /></a>
+<a href="https://instagram.com/a_abdellatif98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_abdellatif98" height="30" width="40" /></a>
+</p>
 
-
-### Package Managers
-
-[![Package: RubyGem](https://img.shields.io/badge/Package-RubyGem-red?&logo=rubygems)](https://rubygems.org/)
-
-### BackEnd Frameworks 
-
-[![Frame: RoR](https://img.shields.io/badge/Frame-RoR-red?&logo=ruby-on-rails&logoColor=red)](https://rubyonrails.org/) 
-
-### Query Languages
-
-[![Code: GraphQl](https://img.shields.io/badge/Code-GraphQL-pink?&logo=graphql)](https://graphql.org/)
-
-### Databases
-
-[![DB: MySQL](https://img.shields.io/badge/DB-MySQL-blue?&logo=mysql)](https://www.mysql.com/) [![DB: Postgresql](https://img.shields.io/badge/DB-Postgresql-blue?&logo=postgresql)](https://www.postgresql.org/) [![DB: Postgresql](https://img.shields.io/badge/DB-Redis-red?&logo=redis)](https://redis.io/)
-
-### Platforms
-
-[![Platform: Postman](https://img.shields.io/badge/Platform-Postman-orange?&logo=postman)](https://www.postman.com/) [![Platform: Heroku](https://img.shields.io/badge/Platform-heroku-violet?&logo=heroku&logoColor=violet)](https://www.heroku.com/)
-
-### Operating systems
-
-[![OS: Ubuntu](https://img.shields.io/badge/Os-Ubuntu-orange?&logo=ubuntu)](https://ubuntu.com/) 
-
-### Version Control Systems
-
-[![Git](https://img.shields.io/badge/Git-grey?&logo=git)](https://git-scm.com/)
-
-### Other
-
-[![Docker](https://img.shields.io/badge/Docker-grey?&logo=docker)](https://www.docker.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-## Let's connect!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p>
 
-[![Connect: GMail](https://img.shields.io/badge/Ahmed_M._Abd_El_Latif-gmail?style=flat&logo=gmail&logoColor=red)](mailto:ahmed.abdelatife@gmail.com")
-[![Connect: LinkedIn](https://img.shields.io/badge/Ahmed_M._Abd_El_Latif-linkedin?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/a-abdellatif/)
-[![Check: CV](https://img.shields.io/badge/Ahmed_M._Abd_El_Latif_CV-orange)](https://drive.google.com/file/d/1pagvj2AsoMWtrkgufwqESN8dRnXoIPpa/view?usp=sharing)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98&" alt="a-abdellatif98" /></p>
+ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=a-abdellatif98.a-abdellatif98)
