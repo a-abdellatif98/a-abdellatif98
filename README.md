@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abd El-Latif</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-
+<img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 - 🌱 I’m currently learning **The well-Grounded Rubyist**
 
 - 👨‍💻 All of my projects are available at [a-abdellatif98](https://github.com/a-abdellatif98)
