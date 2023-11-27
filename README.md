@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-- 👨‍💻 All of my projects are available at [a-abdellatif98](https://github.com/a-abdellatif98)
-
-- 💬 Ask me about **ruby, ruby on rails**
+- 💬 Ask me about **ruby, ruby on rails**, or let's just have a small tech talk 
 
 - 📫 How to reach me **ahmed.abdelatife@gmail.com**
 
