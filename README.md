@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ahmed.abdelatife@gmail.com**
 
-- 📄 Know more about [My Experiences](https://drive.google.com/file/d/1HZr7E1zlmw3BvdxM3fMh1y-dm4AI9L1S/view?usp=sharing)
+- 📄 Know more about [My Experiences](https://drive.google.com/file/d/1D1UBmnBDPeaLFFjtNKDWcMSiHBabvhfS/view)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,8 +26,8 @@
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-<!---<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98" alt="a-abdellatif98" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98" alt="a-abdellatif98" /></p> <!--- -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=a-abdellatif98.a-abdellatif98)
