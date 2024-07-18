@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-- 💬 Ask me about **ruby, ruby on rails**, or let's just have a small tech talk 
+- 💬 let's just have a small tech talk. 
 
-- 📫 How to reach me **ahmed.abdelatife@gmail.com**
+- 📫 How to reach [**me**](mailto:ahmed.abdelatife@gmail.com)
 
 - 📄 Know more about [My Experiences](https://drive.google.com/file/d/1D1UBmnBDPeaLFFjtNKDWcMSiHBabvhfS/view)
 
