@@ -4,7 +4,7 @@
 
 - 💬 let's just have a small tech talk. 
 
-- 📫 How to reach [**me**](mailto:ahmed.abdelatife@gmail.com)
+- 📫 How to reach [**me**](mailto:me@aabdellatif.com)
 
 - 📄 Know more about [My Experiences](https://drive.google.com/file/d/1D1UBmnBDPeaLFFjtNKDWcMSiHBabvhfS/view)
 
