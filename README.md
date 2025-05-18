@@ -6,7 +6,7 @@
 
 - 📫 How to reach [**me**](mailto:me@aabdellatif.com)
 
-- 📄 Know more about [My Experiences](https://drive.google.com/file/d/1D1UBmnBDPeaLFFjtNKDWcMSiHBabvhfS/view)
+- 📄 Know more about [My Experiences](https://aabdellatif.com/Ahmed%20Abd%20El-Latif.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
