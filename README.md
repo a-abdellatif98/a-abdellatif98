@@ -9,6 +9,15 @@
 - 📄 Know more about [My Experiences](https://aabdellatif.com/Ahmed%20Abd%20El-Latif.pdf)
 
 
+<h3 align="left">Claude Code plugins for database and Rails safety:</h3>
+
+- [**db-migration-guard**](https://github.com/a-abdellatif98/db-migration-guard): flagship, published in the Claude Code plugin directory. Blocks dangerous migration edits (drops, renames, type changes, index removal) and suggests zero-downtime patterns.
+- [**n-plus-one-hunter**](https://github.com/a-abdellatif98/n-plus-one-hunter): finds N+1 query patterns in Rails, Django and Laravel and proposes the eager-loading fix.
+- [**query-plan-explainer**](https://github.com/a-abdellatif98/query-plan-explainer): explains PostgreSQL and MySQL EXPLAIN output, finds the bottleneck and gives a fix.
+- [**backfill-planner**](https://github.com/a-abdellatif98/backfill-planner): turns data backfills into batched, resumable, idempotent jobs with dry-run and verification.
+- [**api-contract-guard**](https://github.com/a-abdellatif98/api-contract-guard): catches breaking API changes before they ship, across OpenAPI, GraphQL, Rails and more.
+- [**framework-upgrade-copilot**](https://github.com/a-abdellatif98/framework-upgrade-copilot): plans major Rails, Laravel and Django upgrades one hop at a time.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a_abdellatif98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_abdellatif98" height="30" width="40" /></a>
