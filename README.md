@@ -9,14 +9,20 @@
 - 📄 Know more about [My Experiences](https://aabdellatif.com/Ahmed%20Abd%20El-Latif.pdf)
 
 
-<h3 align="left">Claude Code plugins for database and Rails safety:</h3>
+<h3 align="left">Claude Code plugins for database and backend safety:</h3>
 
-- [**db-migration-guard**](https://github.com/a-abdellatif98/db-migration-guard): flagship, published in the Claude Code plugin directory. Blocks dangerous migration edits (drops, renames, type changes, index removal) and suggests zero-downtime patterns.
-- [**n-plus-one-hunter**](https://github.com/a-abdellatif98/n-plus-one-hunter): finds N+1 query patterns in Rails, Django and Laravel and proposes the eager-loading fix.
-- [**query-plan-explainer**](https://github.com/a-abdellatif98/query-plan-explainer): explains PostgreSQL and MySQL EXPLAIN output, finds the bottleneck and gives a fix.
-- [**backfill-planner**](https://github.com/a-abdellatif98/backfill-planner): turns data backfills into batched, resumable, idempotent jobs with dry-run and verification.
-- [**api-contract-guard**](https://github.com/a-abdellatif98/api-contract-guard): catches breaking API changes before they ship, across OpenAPI, GraphQL, Rails and more.
-- [**framework-upgrade-copilot**](https://github.com/a-abdellatif98/framework-upgrade-copilot): plans major Rails, Laravel and Django upgrades one hop at a time.
+![Claude Code plugins](https://img.shields.io/badge/Claude%20Code%20plugins-1%20live%20%7C%206%20in%20review-D97757)
+
+| Plugin | What it does |
+|---|---|
+| [**db-migration-guard**](https://github.com/a-abdellatif98/db-migration-guard) | Live in the Claude Code plugin directory. Blocks dangerous migration edits and suggests zero-downtime patterns. |
+| [**n-plus-one-hunter**](https://github.com/a-abdellatif98/n-plus-one-hunter) | Finds N+1 query patterns in Rails, Django and Laravel and proposes the eager-loading fix. |
+| [**query-plan-explainer**](https://github.com/a-abdellatif98/query-plan-explainer) | Explains PostgreSQL and MySQL EXPLAIN output, finds the bottleneck and gives a fix. |
+| [**backfill-planner**](https://github.com/a-abdellatif98/backfill-planner) | Turns data backfills into batched, resumable, idempotent jobs with dry-run and verification. |
+| [**api-contract-guard**](https://github.com/a-abdellatif98/api-contract-guard) | Catches breaking API changes before they ship, across OpenAPI and GraphQL. |
+| [**framework-upgrade-copilot**](https://github.com/a-abdellatif98/framework-upgrade-copilot) | Plans major Rails, Laravel and Django upgrades one hop at a time. |
+
+[See all my Claude Code plugins](https://github.com/a-abdellatif98?tab=repositories&q=topic%3Aclaude-code-plugin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
