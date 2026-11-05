@@ -6,18 +6,18 @@ Software engineer from Egypt. I build Rails backends and Claude Code plugins tha
 
 ## Claude Code plugins
 
-![Claude Code plugins](https://img.shields.io/badge/Claude%20Code%20plugins-1%20live%20%7C%206%20in%20review-D97757)
+![Claude Code plugins](https://img.shields.io/badge/Claude%20Code%20plugins-1%20live%20%7C%2010%20in%20review-D97757)
 
 | Plugin | What it does |
 |---|---|
 | [**db-migration-guard**](https://github.com/a-abdellatif98/db-migration-guard) | Live in the Claude Code plugin directory. Blocks dangerous migration edits and suggests zero-downtime patterns. |
-| [**n-plus-one-hunter**](https://github.com/a-abdellatif98/n-plus-one-hunter) | Finds N+1 query patterns in Rails, Django and Laravel and proposes the eager-loading fix. |
+| [**n-plus-one-hunter**](https://github.com/a-abdellatif98/n-plus-one-hunter) | Finds N+1 query patterns in Rails, Django, Laravel and Node and proposes the fix. |
 | [**query-plan-explainer**](https://github.com/a-abdellatif98/query-plan-explainer) | Explains PostgreSQL and MySQL EXPLAIN output, finds the bottleneck and gives a fix. |
 | [**backfill-planner**](https://github.com/a-abdellatif98/backfill-planner) | Turns data backfills into batched, resumable, idempotent jobs with dry-run and verification. |
 | [**api-contract-guard**](https://github.com/a-abdellatif98/api-contract-guard) | Catches breaking API changes before they ship, across OpenAPI and GraphQL. |
-| [**framework-upgrade-copilot**](https://github.com/a-abdellatif98/framework-upgrade-copilot) | Plans major Rails, Laravel and Django upgrades one hop at a time. |
+| [**framework-upgrade-copilot**](https://github.com/a-abdellatif98/framework-upgrade-copilot) | Plans major Rails, Laravel, Django, Next.js and NestJS upgrades one hop at a time. |
 
-[See all my Claude Code plugins →](https://github.com/a-abdellatif98?tab=repositories&q=topic%3Aclaude-code-plugin)
+[See all 12 of my Claude Code plugins →](https://github.com/a-abdellatif98?tab=repositories&q=topic%3Aclaude-code-plugin)
 
 ## Stack
 
